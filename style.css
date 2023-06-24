@@ -1,0 +1,39 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: #200711;
+    font-size: 18px;
+}
+
+a:link {
+    color: #e27daf;
+}
+
+a:visited {
+    color: #ffd6ee;
+}
+
+p {
+    color: #710a4a;
+    font-size: 24px;
+}
+
+.topic, .inline-topic{
+    color: #ff0b86;
+}
+
+.topic {
+    font-size: 65px;
+}
+
+.inline-topic {
+    font-size: 40px;
+}
+
+.list-item {
+    font-size: 24px;
+    margin: 15px 0;
+    color: #710a4a;
+}
